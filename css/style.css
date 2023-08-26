@@ -21,11 +21,13 @@
     .card-row-2{
         display: flex;
         justify-content: space-around;
+        flex-wrap: wrap;
 
     }
     .card-row-1{
         display: flex;
         justify-content: space-around;
+        flex-wrap: wrap;
 
     }
     .card{
